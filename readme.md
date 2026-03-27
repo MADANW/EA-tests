@@ -1,3 +1,2 @@
-## Log of EA's and their backtest reports
-
-# madanw
+# Log of EA's and their backtest reports
+                madanw
